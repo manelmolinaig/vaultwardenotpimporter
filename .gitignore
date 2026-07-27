@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.tmp
+*.log
+.env
+secrets/
+
